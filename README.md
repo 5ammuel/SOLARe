@@ -29,10 +29,11 @@ _**MVP User Stories**_
 - As a user, I want to see the weather forecast for the week so I can estimate sun exposure.
 - As a user, I would like to be able to view, edit, and comment on my data so I can further personalize my data.
 - As a user, I want to be able to easily navigate between data for the week, and individual days, so I can be better informed of possible weather patterns affecting sun exposure.
-_**Post MVP Stretch Goals**_
+
+**Post MVP Stretch Goals**
 - As a user, I would like to be able to have user authentication so my data is only accessible to myself.
 - As a user, I would like to be able to access this app on the appstore for use with my mobile device.
-- As a user, I want to be able to view 
+
 ## MVP Component Hierarchy
 ![Component Wireframe](https://i.imgur.com/UFPB4dc.jpg) 
 Comments will be added as a Stretch Goal!
