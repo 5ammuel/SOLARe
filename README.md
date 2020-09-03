@@ -7,6 +7,9 @@ My  app is called SOLARé. It is an information display based app for people wit
 - ExpressJS
 - Mongoose
 - MongoDB
+- API
+- GitHub
+- Heroku
 ## Wireframes
 ### Frontend
 ![Front End Wireframe](https://i.imgur.com/Cm7CCkM.jpg)
